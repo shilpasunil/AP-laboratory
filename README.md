@@ -1,0 +1,2 @@
+# AP-laboratory
+ASSIGNMENTS FOR COURSE -CS6381-NIT Rourkela-2020-2021
